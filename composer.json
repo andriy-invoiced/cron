@@ -22,7 +22,7 @@
 		"psr-4": { "Infuse\\Cron\\Tests\\": "tests/" }
 	},
 	"require": {
-		"php": ">=7.0",
+		"php": ">=7.1",
 		"symfony/lock": "^4.3",
 		"symfony/event-dispatcher": "^4.3"
 	},
